@@ -24,6 +24,24 @@
 	<programme channel="4K综艺" start="20231003064700 +0800" stop="20231003073800 +0800">
 		<title lang="zh">（4K）小小的追球20200122</title>
 	</programme>
+	<programme channel="4K综艺" start="20231003073800 +0800" stop="20231003084700 +0800">
+		<title lang="zh">（4K）小小的追球20200128</title>
+	</programme>
+	<programme channel="4K综艺" start="20231003084700 +0800" stop="20231003101800 +0800">
+		<title lang="zh">（4K）妻子的浪漫旅行第三季20200122</title>
+	</programme>
+	<programme channel="4K综艺" start="20231003101800 +0800" stop="20231003114900 +0800">
+		<title lang="zh">（4K）妻子的浪漫旅行第三季20200129</title>
+	</programme>
+	<programme channel="4K综艺" start="20231003114900 +0800" stop="20231003132900 +0800">
+		<title lang="zh">（4K）妻子的浪漫旅行第三季20200205</title>
+	</programme>
+	<programme channel="4K综艺" start="20231003132900 +0800" stop="20231003151200 +0800">
+		<title lang="zh">（4K）妻子的浪漫旅行第三季20200212</title>
+	</programme>
+	<programme channel="4K综艺" start="20231003151200 +0800" stop="20231003164100 +0800">
+		<title lang="zh">（4K）亲爱的客栈第三季20191129</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -3021,8 +3039,29 @@
 	<programme channel="CCTV16" start="20231003074000 +0800" stop="20231003090000 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛  女团决赛 70分钟版</title>
 	</programme>
-	<programme channel="CCTV16" start="20231003090000 +0800" stop="20231003220500 +0800">
-		<title lang="zh">杭州亚运会-赛事报道 10</title>
+	<programme channel="CCTV16" start="20231003090000 +0800" stop="20231003095500 +0800">
+		<title lang="zh">录像：杭州亚运会-2日田径决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003095500 +0800" stop="20231003140000 +0800">
+		<title lang="zh">直播：杭州亚运会-羽毛球男女单第二轮、女双第一轮</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003140000 +0800" stop="20231003170000 +0800">
+		<title lang="zh">直播：杭州亚运会-拳击半决赛、决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003170000 +0800" stop="20231003173000 +0800">
+		<title lang="zh">录像：杭州亚运会-皮划艇比赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003173000 +0800" stop="20231003183000 +0800">
+		<title lang="zh">直播：杭州亚运会-跳水女子10米台决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003183000 +0800" stop="20231003193000 +0800">
+		<title lang="zh">录像：杭州亚运会-男篮1/4决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003193000 +0800" stop="20231003205000 +0800">
+		<title lang="zh">直播：杭州亚运会-跳水男子3米板决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231003205000 +0800" stop="20231003220500 +0800">
+		<title lang="zh">直播：杭州亚运会-拳击决赛</title>
 	</programme>
 	<programme channel="CCTV16" start="20231003220500 +0800" stop="20231003230500 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2023年世界举重锦标赛 男子89公斤级决赛</title>
@@ -3111,53 +3150,7 @@
 	<programme channel="CCTV17" start="20231003180000 +0800" stop="20231003183200 +0800">
 		<title lang="zh">三农长短说</title>
 	</programme>
-	<programme channel="CCTV17" start="20231003183200 +0800" stop="20231003192600 +0800">
-		<title lang="zh">我最爱的家人第16集</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003192600 +0800" stop="20231003201500 +0800">
-		<title lang="zh">我最爱的家人第17集</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003201500 +0800" stop="20231003204700 +0800">
-		<title lang="zh">三农群英汇-2023-284</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003204700 +0800" stop="20231003221000 +0800">
-		<title lang="zh">乡村大舞台-好物节-走进黑龙江塔河</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003221000 +0800" stop="20231003221500 +0800">
-		<title lang="zh">农业气象</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003221500 +0800" stop="20231003224800 +0800">
-		<title lang="zh">共富经-2023-110</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003224800 +0800" stop="20231003232000 +0800">
-		<title lang="zh">三农群英汇-2023-284</title>
-	</programme>
-	<programme channel="CCTV17" start="20231003232000 +0800" stop="20231003235900 +0800">
-		<title lang="zh">乡村大舞台-好物节-走进黑龙江塔河</title>
-	</programme>
-	<channel id="CCTV2">
-		<display-name lang="zh">CCTV2</display-name>
-	</channel>
-	<programme channel="CCTV2" start="20231003003300 +0800" stop="20231003012200 +0800">
-		<title lang="zh">乡村振兴中国行（第二季）-27</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003012200 +0800" stop="20231003022000 +0800">
-		<title lang="zh">职场健康课-2023-39</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003022000 +0800" stop="20231003030300 +0800">
-		<title lang="zh">中国经济大讲堂-2023-38</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003030300 +0800" stop="20231003032500 +0800">
-		<title lang="zh">周末特供-航拍中国第二季2-22分钟版</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003032500 +0800" stop="20231003040000 +0800">
-		<title lang="zh">回家吃饭-2023-232</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003040000 +0800" stop="20231003043000 +0800">
-		<title lang="zh">消费主张</title>
-	</programme>
-	<programme channel="CCTV2" start="20231003043000 +0800" stop="20231003053100 +0800">
-		<title lang="zh">欢乐大猜想-2023-39</title>
+	<programme channel="CCTV17" start="20231003183200 +0800" stop="2023100319260le lang="zh">欢乐大猜想-2023-39</title>
 	</programme>
 	<programme channel="CCTV2" start="20231003053100 +0800" stop="20231003055900 +0800">
 		<title lang="zh">生财有道-2023-10-2</title>
