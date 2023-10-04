@@ -36,6 +36,24 @@
 	<programme channel="4K综艺" start="20231004094300 +0800" stop="20231004102600 +0800">
 		<title lang="zh">（4K）我最爱的女人们20190802</title>
 	</programme>
+	<programme channel="4K综艺" start="20231004102600 +0800" stop="20231004115100 +0800">
+		<title lang="zh">（4K）亲爱的客栈第三季20200103</title>
+	</programme>
+	<programme channel="4K综艺" start="20231004115100 +0800" stop="20231004125800 +0800">
+		<title lang="zh">（4K）亲爱的客栈第三季20200110</title>
+	</programme>
+	<programme channel="4K综艺" start="20231004125800 +0800" stop="20231004135300 +0800">
+		<title lang="zh">（4K）我最爱的女人们20190504</title>
+	</programme>
+	<programme channel="4K综艺" start="20231004135300 +0800" stop="20231004153500 +0800">
+		<title lang="zh">（4K）我最爱的女人们20190510</title>
+	</programme>
+	<programme channel="4K综艺" start="20231004153500 +0800" stop="20231004162600 +0800">
+		<title lang="zh">（4K）我最爱的女人们20190511</title>
+	</programme>
+	<programme channel="4K综艺" start="20231004162600 +0800" stop="20231004180100 +0800">
+		<title lang="zh">（4K）我最爱的女人们20190517</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -1221,7 +1239,16 @@
 	<programme channel="BTV体育" start="20231004170000 +0800" stop="20231004175000 +0800">
 		<title lang="zh">谁是冠军-掼蛋精英赛（2023-10-3）</title>
 	</programme>
-	<programme channel="BTV体育" start="20231004175500 +0800" s0800" stop="20231004222500 +0800">
+	<programme channel="BTV体育" start="20231004175500 +0800" stop="20231004184500 +0800">
+		<title lang="zh">欢乐二打一（2023-10-4）</title>
+	</programme>
+	<programme channel="BTV体育" start="20231004185000 +0800" stop="20231004192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20231004192500 +0800" stop="20231004213000 +0800">
+		<title lang="zh">直播：2023中国网球公开赛男单决赛（超时顺延）</title>
+	</programme>
+	<programme channel="BTV体育" start="20231004213500 +0800" stop="20231004222500 +0800">
 		<title lang="zh">谁是冠军-掼蛋精英赛（2023-10-4）</title>
 	</programme>
 	<programme channel="BTV体育" start="20231004223000 +0800" stop="20231004232000 +0800">
@@ -2877,16 +2904,16 @@
 	<programme channel="CCTV13" start="20231004213000 +0800" stop="20231004220000 +0800">
 		<title lang="zh">新闻1+1</title>
 	</programme>
-	<programme channel="CCTV13" start="20231004220000 +0800" stop="20231004223000 +0800">
+	<programme channel="CCTV13" start="20231004220000 +0800" stop="20231004223200 +0800">
 		<title lang="zh">2023吾家吾国-4</title>
 	</programme>
-	<programme channel="CCTV13" start="20231004223000 +0800" stop="20231004230000 +0800">
+	<programme channel="CCTV13" start="20231004223200 +0800" stop="20231004230200 +0800">
 		<title lang="zh">国际时讯</title>
 	</programme>
-	<programme channel="CCTV13" start="20231004230000 +0800" stop="20231004233000 +0800">
+	<programme channel="CCTV13" start="20231004230200 +0800" stop="20231004233200 +0800">
 		<title lang="zh">环球视线</title>
 	</programme>
-	<programme channel="CCTV13" start="20231004233000 +0800" stop="20231004235900 +0800">
+	<programme channel="CCTV13" start="20231004233200 +0800" stop="20231004235900 +0800">
 		<title lang="zh">24小时</title>
 	</programme>
 	<channel id="CCTV14">
@@ -3048,8 +3075,26 @@
 	<programme channel="CCTV16" start="20231004080000 +0800" stop="20231004090000 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2023年亚洲乒乓球锦标赛 混双比赛</title>
 	</programme>
-	<programme channel="CCTV16" start="20231004090000 +0800" stop="20231004220500 +0800">
-		<title lang="zh">杭州亚运会-赛事报道 11</title>
+	<programme channel="CCTV16" start="20231004090000 +0800" stop="20231004100000 +0800">
+		<title lang="zh">录像：杭州亚运会-3日田径决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004100000 +0800" stop="20231004140000 +0800">
+		<title lang="zh">直播：杭州亚运会-羽毛球男单、女单第三轮、男双、女双、混双第二轮</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004140000 +0800" stop="20231004160000 +0800">
+		<title lang="zh">直播：杭州亚运会-亚运拳击比赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004160000 +0800" stop="20231004173000 +0800">
+		<title lang="zh">录像：杭州亚运会-女篮半决赛 朝鲜队-中国队</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004173000 +0800" stop="20231004182500 +0800">
+		<title lang="zh">直播：杭州亚运会-跳水女子3米板决赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004182500 +0800" stop="20231004193000 +0800">
+		<title lang="zh">录像：杭州亚运会-4日龙舟赛</title>
+	</programme>
+	<programme channel="CCTV16" start="20231004193000 +0800" stop="20231004220500 +0800">
+		<title lang="zh">直播：杭州亚运会-跳水男子10米台决赛</title>
 	</programme>
 	<programme channel="CCTV16" start="20231004220500 +0800" stop="20231004230500 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2023年世界举重锦标赛  女子87公斤级决赛</title>
@@ -3810,26 +3855,47 @@
 	<programme channel="CCTV5" start="20231004082500 +0800" stop="20231004085500 +0800">
 		<title lang="zh">实况录像（奥林匹克）-2023年世界田联钻石联赛 厦门站25分钟版（4K）</title>
 	</programme>
-	<programme channel="CCTV5" start="20231004085500 +0800" stop="20231004120000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播11-1</title>
+	<programme channel="CCTV5" start="20231004085500 +0800" stop="20231004103000 +0800">
+		<title lang="zh">直播：杭州亚运会-龙舟男子、女子200米预赛、半决赛、决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004103000 +0800" stop="20231004120000 +0800">
+		<title lang="zh">录像：杭州亚运会-男篮1/4决赛 中国-韩国</title>
 	</programme>
 	<programme channel="CCTV5" start="20231004120000 +0800" stop="20231004123000 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
-	<programme channel="CCTV5" start="20231004123000 +0800" stop="20231004180000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播11-2</title>
+	<programme channel="CCTV5" start="20231004123000 +0800" stop="20231004133000 +0800">
+		<title lang="zh">录像：杭州亚运会-跳水女子10米台决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004133000 +0800" stop="20231004140000 +0800">
+		<title lang="zh">录像：杭州亚运会-跳水男子3米板决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004140000 +0800" stop="20231004164000 +0800">
+		<title lang="zh">直播：杭州亚运会-射箭反曲弓混合团体1/4、半决赛、铜牌赛、决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004164000 +0800" stop="20231004180000 +0800">
+		<title lang="zh">录像：杭州亚运会-女足半决赛 中国-日本</title>
 	</programme>
 	<programme channel="CCTV5" start="20231004180000 +0800" stop="20231004183000 +0800">
 		<title lang="zh">体育新闻</title>
 	</programme>
-	<programme channel="CCTV5" start="20231004183000 +0800" stop="20231004213000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播11-3</title>
+	<programme channel="CCTV5" start="20231004183000 +0800" stop="20231004190000 +0800">
+		<title lang="zh">录像：杭州亚运会-拳击金牌赛</title>
 	</programme>
-	<programme channel="CCTV5" start="20231004213000 +0800" stop="20231004223500 +0800">
+	<programme channel="CCTV5" start="20231004190000 +0800" stop="20231004200000 +0800">
+		<title lang="zh">直播：杭州亚运会-田径多项决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004200000 +0800" stop="20231004214500 +0800">
+		<title lang="zh">直播：杭州亚运会-男篮半决赛 菲律宾VS中国</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004214500 +0800" stop="20231004220000 +0800">
+		<title lang="zh">延播：杭州亚运会-田径决赛</title>
+	</programme>
+	<programme channel="CCTV5" start="20231004220000 +0800" stop="20231004230000 +0800">
 		<title lang="zh">体育世界-全景亚运会</title>
 	</programme>
-	<programme channel="CCTV5" start="20231004223500 +0800" stop="20231004235900 +0800">
-		<title lang="zh">实况录像-杭州亚运会（录播）12</title>
+	<programme channel="CCTV5" start="20231004230000 +0800" stop="20231004235900 +0800">
+		<title lang="zh">实况录像-杭州亚运会-女排排位赛 中国-韩国</title>
 	</programme>
 	<channel id="CCTV5+">
 		<display-name lang="zh">CCTV5+</display-name>
@@ -3849,17 +3915,38 @@
 	<programme channel="CCTV5+" start="20231004053000 +0800" stop="20231004065500 +0800">
 		<title lang="zh">2023年国际冰联男子冰球世界锦标赛-顶级组（斯洛文尼亚队-斯洛伐克队）</title>
 	</programme>
-	<programme channel="CCTV5+" start="20231004065500 +0800" stop="20231004123000 +0800">
-		<title lang="zh">杭州亚运会-赛事直播-17</title>
+	<programme channel="CCTV5+" start="20231004065500 +0800" stop="20231004100000 +0800">
+		<title lang="zh">直播：杭州亚运会-竞走35公里决赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20231004123000 +0800" stop="20231004160000 +0800">
+	<programme channel="CCTV5+" start="20231004100000 +0800" stop="20231004110000 +0800">
+		<title lang="zh">录像：杭州亚运会-女篮半决赛 中国-朝鲜</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004110000 +0800" stop="20231004120000 +0800">
+		<title lang="zh">录像：杭州亚运会-3日田径多项决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004120000 +0800" stop="20231004123000 +0800">
+		<title lang="zh">录像：杭州亚运会-攀岩男子、女子个人速度决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004123000 +0800" stop="20231004140000 +0800">
 		<title lang="zh">2023年中国网球公开赛-13</title>
 	</programme>
-	<programme channel="CCTV5+" start="20231004160000 +0800" stop="20231004220500 +0800">
-		<title lang="zh">杭州亚运会-赛事直播-18</title>
+	<programme channel="CCTV5+" start="20231004140000 +0800" stop="20231004160000 +0800">
+		<title lang="zh">录像：体操世锦赛男团决赛</title>
 	</programme>
-	<programme channel="CCTV5+" start="20231004220500 +0800" stop="20231004233600 +0800">
-		<title lang="zh">2023年国际排联巴黎奥运会男排资格赛-C组(中国站) 中国队—加拿大队（录播）</title>
+	<programme channel="CCTV5+" start="20231004160000 +0800" stop="20231004180000 +0800">
+		<title lang="zh">直播：杭州亚运会-男篮半决赛1</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004180000 +0800" stop="20231004190000 +0800">
+		<title lang="zh">录像：杭州亚运会-射箭反曲弓混合团体赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004190000 +0800" stop="20231004210000 +0800">
+		<title lang="zh">直播：杭州亚运会-女排排位赛 中国-韩国</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004210000 +0800" stop="20231004220000 +0800">
+		<title lang="zh">录像：杭州亚运会-跳水女子3米板决赛</title>
+	</programme>
+	<programme channel="CCTV5+" start="20231004220000 +0800" stop="20231004233600 +0800">
+		<title lang="zh">中网男单决赛</title>
 	</programme>
 	<programme channel="CCTV5+" start="20231004233600 +0800" stop="20231004235900 +0800">
 		<title lang="zh">国际足球赛场-23-24赛季德甲联赛第6轮 莱比锡—拜仁慕尼黑</title>
@@ -12502,13 +12589,7 @@
 		<title lang="zh">登峰造極  (live)</title>
 	</programme>
 	<programme channel="SBN全球财经台" start="20231004150000 +0800" stop="20231004153000 +0800">
-		<title lang="zh">映亮華爾街 (live)</title>
-	</programme>
-	<programme channel="SBN全球财经台" start="20231004153000 +0800" stop="20231004160000 +0800">
-		<title lang="zh">豪門世家  (錄首)</title>
-	</programme>
-	<programme channel="SBN全球财经台" start="20231004160000 +0800" stop="20231004163000 +0800">
-		<title lang="zh">操盤戰將 (錄首)</title>
+		<title lang="zh">映亮華爾街 (e>
 	</programme>
 	<programme channel="SBN全球财经台" start="20231004163000 +0800" stop="20231004170000 +0800">
 		<title lang="zh">股市之寶(錄首)</title>
@@ -20160,6 +20241,153 @@
 	<programme channel="中视菁采台" start="20231004220000 +0800" stop="20231004230000 +0800">
 		<title lang="zh">光陰的故事(普)</title>
 	</programme>
+	<channel id="义乌公共文艺">
+		<display-name lang="zh">义乌公共文艺</display-name>
+	</channel>
+	<programme channel="义乌公共文艺" start="20231004090500 +0800" stop="20231004142000 +0800">
+		<title lang="zh">电影</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004142000 +0800" stop="20231004164000 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004164000 +0800" stop="20231004174900 +0800">
+		<title lang="zh">淘在义乌</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004174900 +0800" stop="20231004175700 +0800">
+		<title lang="zh">房产视线</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004175700 +0800" stop="20231004180300 +0800">
+		<title lang="zh">总片头收视指南</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004180300 +0800" stop="20231004180600 +0800">
+		<title lang="zh">商贸英语</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004180600 +0800" stop="20231004181100 +0800">
+		<title lang="zh">与车同行</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004181100 +0800" stop="20231004190000 +0800">
+		<title lang="zh">吃在义乌</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004190000 +0800" stop="20231004213400 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004213400 +0800" stop="20231004222300 +0800">
+		<title lang="zh">电视剧</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004222300 +0800" stop="20231004230500 +0800">
+		<title lang="zh">义乌新闻(重播)</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004230500 +0800" stop="20231004231800 +0800">
+		<title lang="zh">房产视线</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004231800 +0800" stop="20231004233100 +0800">
+		<title lang="zh">吃在义乌</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004233100 +0800" stop="20231004235600 +0800">
+		<title lang="zh">午夜电影</title>
+	</programme>
+	<programme channel="义乌公共文艺" start="20231004235600 +0800" stop="20231004235900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<channel id="义乌商贸">
+		<display-name lang="zh">义乌商贸</display-name>
+	</channel>
+	<programme channel="义乌商贸" start="20231004080000 +0800" stop="20231004083000 +0800">
+		<title lang="zh">商贸信息联播(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004083000 +0800" stop="20231004090000 +0800">
+		<title lang="zh">同年哥讲新闻(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004090000 +0800" stop="20231004093000 +0800">
+		<title lang="zh">义乌指数(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004093000 +0800" stop="20231004120000 +0800">
+		<title lang="zh">交易日</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004120000 +0800" stop="20231004123000 +0800">
+		<title lang="zh">商贸信息联播(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004123000 +0800" stop="20231004130000 +0800">
+		<title lang="zh">同年哥讲新闻(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004130000 +0800" stop="20231004133000 +0800">
+		<title lang="zh">义乌指数(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004133000 +0800" stop="20231004142000 +0800">
+		<title lang="zh">理财有道(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004142000 +0800" stop="20231004150000 +0800">
+		<title lang="zh">欢乐义乌(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004150000 +0800" stop="20231004153000 +0800">
+		<title lang="zh">品牌风景线</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004153000 +0800" stop="20231004160500 +0800">
+		<title lang="zh">房产视线</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004160500 +0800" stop="20231004163500 +0800">
+		<title lang="zh">与车同行</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004163500 +0800" stop="20231004170000 +0800">
+		<title lang="zh">吃在义乌</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004170000 +0800" stop="20231004173800 +0800">
+		<title lang="zh">淘在义乌</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004173800 +0800" stop="20231004174800 +0800">
+		<title lang="zh">收视指南</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004174800 +0800" stop="20231004175000 +0800">
+		<title lang="zh">房产视线</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004175000 +0800" stop="20231004180000 +0800">
+		<title lang="zh">品牌风景线</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004180000 +0800" stop="20231004181000 +0800">
+		<title lang="zh">与车同行</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004181000 +0800" stop="20231004183000 +0800">
+		<title lang="zh">吃在义乌</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004183000 +0800" stop="20231004190000 +0800">
+		<title lang="zh">同年哥讲新闻</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004190000 +0800" stop="20231004192000 +0800">
+		<title lang="zh">义乌指数</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004192000 +0800" stop="20231004195000 +0800">
+		<title lang="zh">欢乐义乌</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004195000 +0800" stop="20231004200000 +0800">
+		<title lang="zh">淘在义乌</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004200000 +0800" stop="20231004203000 +0800">
+		<title lang="zh">商贸信息联播</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004203000 +0800" stop="20231004205200 +0800">
+		<title lang="zh">同年哥讲新闻(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004205200 +0800" stop="20231004210000 +0800">
+		<title lang="zh">商家推介</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004210000 +0800" stop="20231004212000 +0800">
+		<title lang="zh">理财有道</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004212000 +0800" stop="20231004213000 +0800">
+		<title lang="zh">房产视线</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004213000 +0800" stop="20231004220000 +0800">
+		<title lang="zh">义乌指数(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004220000 +0800" stop="20231004230000 +0800">
+		<title lang="zh">商贸信息联播(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004230000 +0800" stop="20231004232000 +0800">
+		<title lang="zh">理财有道(重播)</title>
+	</programme>
+	<programme channel="义乌商贸" start="20231004232000 +0800" stop="20231004235900 +0800">
+		<title lang="zh">欢乐义乌(重播)</title>
+	</programme>
 	<channel id="义乌商贸频道">
 		<display-name lang="zh">义乌商贸频道</display-name>
 	</channel>
@@ -23607,230 +23835,7 @@
 	<programme channel="凤凰卫视中文台" start="20231004060000 +0800" stop="20231004063000 +0800">
 		<title lang="zh">纪录大时代 第583集</title>
 	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004063000 +0800" stop="20231004070000 +0800">
-		<title lang="zh">总编辑时间 -3/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004070000 +0800" stop="20231004075700 +0800">
-		<title lang="zh">凤凰早班车 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004075700 +0800" stop="20231004080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004080000 +0800" stop="20231004085700 +0800">
-		<title lang="zh">凤凰早班车 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004085700 +0800" stop="20231004090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004090000 +0800" stop="20231004093000 +0800">
-		<title lang="zh">凤凰全球连线 -3/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004093000 +0800" stop="20231004100000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004100000 +0800" stop="20231004105700 +0800">
-		<title lang="zh">凤凰正点播报 1000 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004105700 +0800" stop="20231004110000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004110000 +0800" stop="20231004113000 +0800">
-		<title lang="zh">凤凰聚焦 第457集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004113000 +0800" stop="20231004120000 +0800">
-		<title lang="zh">有报天天读 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004120000 +0800" stop="20231004125500 +0800">
-		<title lang="zh">凤凰午间专列 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004125500 +0800" stop="20231004130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004130000 +0800" stop="20231004133000 +0800">
-		<title lang="zh">总编辑时间 -3/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004133000 +0800" stop="20231004140000 +0800">
-		<title lang="zh">近观中国 第88集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004140000 +0800" stop="20231004143000 +0800">
-		<title lang="zh">新闻鉴证组 第89集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004143000 +0800" stop="20231004150000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004150000 +0800" stop="20231004155700 +0800">
-		<title lang="zh">凤凰正点播报 1500 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004155700 +0800" stop="20231004160000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004160000 +0800" stop="20231004163000 +0800">
-		<title lang="zh">凤凰冲击播 第339集 -冷暖人生</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004163000 +0800" stop="20231004170000 +0800">
-		<title lang="zh">纪录大时代 第584集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004170000 +0800" stop="20231004173000 +0800">
-		<title lang="zh">解码香港 第88集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004173000 +0800" stop="20231004180000 +0800">
-		<title lang="zh">有报天天读 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004180000 +0800" stop="20231004182700 +0800">
-		<title lang="zh">凤凰焦点新闻 1800 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004182700 +0800" stop="20231004183000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004183000 +0800" stop="20231004190000 +0800">
-		<title lang="zh">新闻今日谈 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004190000 +0800" stop="20231004193000 +0800">
-		<title lang="zh">亚洲财经透视 第456集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004193000 +0800" stop="20231004200000 +0800">
-		<title lang="zh">发现大湾区 第36集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004200000 +0800" stop="20231004203000 +0800">
-		<title lang="zh">凤凰大视野</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004203000 +0800" stop="20231004210000 +0800">
-		<title lang="zh">凤凰冲击播 第258集 -军情观察室</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004210000 +0800" stop="20231004220000 +0800">
-		<title lang="zh">时事直通车 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004220000 +0800" stop="20231004223000 +0800">
-		<title lang="zh">凤凰聚焦 第458集</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004223000 +0800" stop="20231004230000 +0800">
-		<title lang="zh">凤凰全球连线 -4/10/23</title>
-	</programme>
-	<programme channel="凤凰卫视中文台" start="20231004230000 +0800" stop="20231004233000 +0800">
-		<title lang="zh">亚洲财经透视 第456集</title>
-	</programme>
-	<channel id="凤凰卫视资讯台">
-		<display-name lang="zh">凤凰卫视资讯台</display-name>
-	</channel>
-	<programme channel="凤凰卫视资讯台" start="20231004000000 +0800" stop="20231004005700 +0800">
-		<title lang="zh">凤凰子夜快车</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004005700 +0800" stop="20231004010000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004010000 +0800" stop="20231004012700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004012700 +0800" stop="20231004013000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004013000 +0800" stop="20231004020000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004020000 +0800" stop="20231004022700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004022700 +0800" stop="20231004023000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004023000 +0800" stop="20231004030000 +0800">
-		<title lang="zh">凤凰财经日报</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004030000 +0800" stop="20231004032700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004032700 +0800" stop="20231004033000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004033000 +0800" stop="20231004040000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004040000 +0800" stop="20231004042700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004042700 +0800" stop="20231004043000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004043000 +0800" stop="20231004045700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004045700 +0800" stop="20231004050000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004050000 +0800" stop="20231004052700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004052700 +0800" stop="20231004053000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004053000 +0800" stop="20231004060000 +0800">
-		<title lang="zh">新闻今日谈</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004060000 +0800" stop="20231004062700 +0800">
-		<title lang="zh">凤凰正点播报 0100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004062700 +0800" stop="20231004063000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004063000 +0800" stop="20231004070000 +0800">
-		<title lang="zh">凤凰聚焦</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004070000 +0800" stop="20231004075700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004075700 +0800" stop="20231004080000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004080000 +0800" stop="20231004085700 +0800">
-		<title lang="zh">凤凰早班车</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004085700 +0800" stop="20231004090000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004090000 +0800" stop="20231004092700 +0800">
-		<title lang="zh">凤凰正点播报 0900</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004092700 +0800" stop="20231004093000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004093000 +0800" stop="20231004100000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004100000 +0800" stop="20231004105700 +0800">
-		<title lang="zh">凤凰正点播报 1000</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004105700 +0800" stop="20231004110000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004110000 +0800" stop="20231004112700 +0800">
-		<title lang="zh">凤凰正点播报 1100</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004112700 +0800" stop="20231004113000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004113000 +0800" stop="20231004120000 +0800">
-		<title lang="zh">总编辑时间</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004120000 +0800" stop="20231004125500 +0800">
-		<title lang="zh">凤凰午间专列</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004125500 +0800" stop="20231004130000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004130000 +0800" stop="20231004132700 +0800">
-		<title lang="zh">凤凰正点播报 1300</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004132700 +0800" stop="20231004133000 +0800">
-		<title lang="zh">凤凰气象站</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004133000 +0800" stop="20231004140000 +0800">
-		<title lang="zh">金石财经</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004140000 +0800" stop="20231004142700 +0800">
-		<title lang="zh">凤凰正点播报 1400</title>
-	</programme>
-	<programme channel="凤凰卫视资讯台" start="20231004142700 +0800" stop="20231004143000 +0800">
-		<title lang="zh">凤凰气象站</title>
+	<programitle>
 	</programme>
 	<programme channel="凤凰卫视资讯台" start="20231004143000 +0800" stop="20231004150000 +0800">
 		<title lang="zh">总编辑时间</title>
