@@ -1,5 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20250713000000 +0800" stop="20250713004300 +0800">
+		<title lang="zh">上流社会</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713004300 +0800" stop="20250713024000 +0800">
+		<title lang="zh">控方证人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713024000 +0800" stop="20250713041500 +0800">
+		<title lang="zh">情不自禁</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713041500 +0800" stop="20250713055900 +0800">
+		<title lang="zh">双重赔偿</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713055900 +0800" stop="20250713075500 +0800">
+		<title lang="zh">夜长梦多</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713075500 +0800" stop="20250713085900 +0800">
+		<title lang="zh">歌剧魅影</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713085900 +0800" stop="20250713105900 +0800">
+		<title lang="zh">擒凶记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713105900 +0800" stop="20250713123800 +0800">
+		<title lang="zh">深闺疑云</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713123800 +0800" stop="20250713142700 +0800">
+		<title lang="zh">惊魂记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713142700 +0800" stop="20250713163600 +0800">
+		<title lang="zh">迷魂记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713163600 +0800" stop="20250713184600 +0800">
+		<title lang="zh">蝴蝶梦</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713184600 +0800" stop="20250713204400 +0800">
+		<title lang="zh">凡尔杜先生</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713204400 +0800" stop="20250713224300 +0800">
+		<title lang="zh">群鸟</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250713224300 +0800" stop="20250713235900 +0800">
+		<title lang="zh">爱德华大夫</title>
+	</programme>
+	<channel id="BTV体育">
+		<display-name lang="zh">BTV体育</display-name>
+	</channel>
+	<programme channel="BTV体育" start="20250713002500 +0800" stop="20250713005500 +0800">
+		<title lang="zh">天天体育（2025-7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713005500 +0800" stop="20250713014500 +0800">
+		<title lang="zh">BRTV赛场：奥运赛事剪辑（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713014500 +0800" stop="20250713023500 +0800">
+		<title lang="zh">欢乐二打一（2025-7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713023500 +0800" stop="20250713041500 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北控-新疆）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713041500 +0800" stop="20250713050500 +0800">
+		<title lang="zh">BRTV赛场：奥运赛事剪辑（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713050500 +0800" stop="20250713053500 +0800">
+		<title lang="zh">天天体育（2025-7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713053500 +0800" stop="20250713055000 +0800">
+		<title lang="zh">2024-2025德甲进球集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713055000 +0800" stop="20250713060000 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713060500 +0800" stop="20250713061500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713061500 +0800" stop="20250713075500 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(北京国安-深圳新鹏程)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713080000 +0800" stop="20250713083000 +0800">
+		<title lang="zh">天天体育（2025-7-12）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713083000 +0800" stop="20250713092000 +0800">
+		<title lang="zh">欢乐二打一（2025-7-12）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713092000 +0800" stop="20250713100500 +0800">
+		<title lang="zh">乐活北京136（7-12）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713101000 +0800" stop="20250713105000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季德甲集锦（17）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713105000 +0800" stop="20250713110000 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713110000 +0800" stop="20250713110500 +0800">
+		<title lang="zh">奥运夺金时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713111000 +0800" stop="20250713114000 +0800">
+		<title lang="zh">天天体育（2025-7-12）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713114000 +0800" stop="20250713123000 +0800">
+		<title lang="zh">欢乐二打一（2025-7-12）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713123000 +0800" stop="20250713131500 +0800">
+		<title lang="zh">乐活北京147（7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713132000 +0800" stop="20250713150000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北控-新疆）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713150500 +0800" stop="20250713151500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713152000 +0800" stop="20250713170000 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(北京国安-云南玉昆)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713171000 +0800" stop="20250713175500 +0800">
+		<title lang="zh">乐活北京147（7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713175500 +0800" stop="20250713184500 +0800">
+		<title lang="zh">欢乐二打一（2025-7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713185000 +0800" stop="20250713192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713192000 +0800" stop="20250713192500 +0800">
+		<title lang="zh">奥运夺金时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713193000 +0800" stop="20250713211000 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(北京国安-云南玉昆)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713212000 +0800" stop="20250713221000 +0800">
+		<title lang="zh">欢乐二打一（2025-7-13）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250713221500 +0800" stop="20250713224500 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第12轮集锦</title>
+	</programme>
 	<channel id="BTV影视">
 		<display-name lang="zh">BTV影视</display-name>
 	</channel>
@@ -15951,11 +16086,41 @@
 	<programme channel="咪咕综合体育" start="20250713000000 +0800" stop="20250713012500 +0800">
 		<title lang="zh">网球世界-2025WTA500斯图加特站 决赛 萨巴伦卡-奥斯塔彭科</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250713013500 +0800" stop="20250713031500 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/8决赛 皇家马德里-尤文图斯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250713031500 +0800" stop="20250713033000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250713033000 +0800" stop="20250713043000 +0800">
+		<title lang="zh">纪录片曼联：为了荣誉</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250713043000 +0800" stop="20250713052000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250713052000 +0800" stop="20250713081000 +0800">
+		<title lang="zh">UFC317期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250713000100 +0800" stop="20250713012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250713013000 +0800" stop="20250713031000 +0800">
+		<title lang="zh">2024NBL 广西威壮-河南赊店老酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250713032000 +0800" stop="20250713042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250713042000 +0800" stop="20250713042500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250713042500 +0800" stop="20250713052500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250713053000 +0800" stop="20250713071000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA第16轮 北京首钢园-江苏南钢</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -21476,6 +21641,108 @@
 	</programme>
 	<programme channel="峨嵋电影" start="20250713213600 +0800" stop="20250713235900 +0800">
 		<title lang="zh">娱乐公社</title>
+	</programme>
+	<channel id="常州新闻">
+		<display-name lang="zh">常州新闻</display-name>
+	</channel>
+	<programme channel="常州新闻" start="20250713060000 +0800" stop="20250713063000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713063000 +0800" stop="20250713070000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713070000 +0800" stop="20250713070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713070100 +0800" stop="20250713073200 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713073200 +0800" stop="20250713082000 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713082000 +0800" stop="20250713100000 +0800">
+		<title lang="zh">活力剧场1</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713100000 +0800" stop="20250713105000 +0800">
+		<title lang="zh">活力剧场2</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713105000 +0800" stop="20250713115000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713115000 +0800" stop="20250713120000 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713120000 +0800" stop="20250713123000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713123000 +0800" stop="20250713131000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713131000 +0800" stop="20250713133500 +0800">
+		<title lang="zh">金色年华</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713133500 +0800" stop="20250713140500 +0800">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713140500 +0800" stop="20250713145000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713145000 +0800" stop="20250713151500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713151500 +0800" stop="20250713152500 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713152500 +0800" stop="20250713162000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713162000 +0800" stop="20250713162900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713162900 +0800" stop="20250713164400 +0800">
+		<title lang="zh">手语新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713164400 +0800" stop="20250713172400 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713172400 +0800" stop="20250713180000 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713180000 +0800" stop="20250713183000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713183000 +0800" stop="20250713190000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713190000 +0800" stop="20250713193300 +0800">
+		<title lang="zh">央视新闻联播</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713193300 +0800" stop="20250713194000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713194000 +0800" stop="20250713203000 +0800">
+		<title lang="zh">黄金剧场(1)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713203000 +0800" stop="20250713212000 +0800">
+		<title lang="zh">黄金剧场(2)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713212000 +0800" stop="20250713215000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713215000 +0800" stop="20250713220000 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713220000 +0800" stop="20250713221500 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713221500 +0800" stop="20250713223000 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713223000 +0800" stop="20250713231500 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250713231500 +0800" stop="20250713060000 +0800">
+		<title lang="zh">结束</title>
 	</programme>
 	<channel id="平顶山1新闻综合">
 		<display-name lang="zh">平顶山1新闻综合</display-name>
@@ -36201,277 +36468,4 @@
 	<programme channel="石家庄娱乐" start="20250713125000 +0800" stop="20250713134000 +0800">
 		<title lang="zh">观点致胜</title>
 	</programme>
-	<programme channel="石家庄娱乐" start="20250713134000 +0800" stop="20250713142000 +0800">
-		<title lang="zh">置家帮</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713142000 +0800" stop="20250713151000 +0800">
-		<title lang="zh">省会房产报道</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713151000 +0800" stop="20250713151600 +0800">
-		<title lang="zh">第一健康</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713151600 +0800" stop="20250713152000 +0800">
-		<title lang="zh">广电庄里淘</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713152000 +0800" stop="20250713152500 +0800">
-		<title lang="zh">百姓报天气</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713152500 +0800" stop="20250713160000 +0800">
-		<title lang="zh">旅游:自在游天下</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713160000 +0800" stop="20250713161500 +0800">
-		<title lang="zh">好榜样时间</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713161500 +0800" stop="20250713164500 +0800">
-		<title lang="zh">开心365</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713164500 +0800" stop="20250713174000 +0800">
-		<title lang="zh">2017中国扑克大赛牌王电视擂台赛</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713174000 +0800" stop="20250713182500 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713182500 +0800" stop="20250713183500 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713183500 +0800" stop="20250713213200 +0800">
-		<title lang="zh">四集剧场</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713213200 +0800" stop="20250713213900 +0800">
-		<title lang="zh">广电庄里淘</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713213900 +0800" stop="20250713214500 +0800">
-		<title lang="zh">第一健康</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713214500 +0800" stop="20250713223500 +0800">
-		<title lang="zh">观点致胜</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713223500 +0800" stop="20250713230000 +0800">
-		<title lang="zh">省会房产报道</title>
-	</programme>
-	<programme channel="石家庄娱乐" start="20250713230000 +0800" stop="20250713235900 +0800">
-		<title lang="zh">财经全接触</title>
-	</programme>
-	<channel id="石家庄新闻综合">
-		<display-name lang="zh">石家庄新闻综合</display-name>
-	</channel>
-	<programme channel="石家庄新闻综合" start="20250713052000 +0800" stop="20250713060000 +0800">
-		<title lang="zh">嘻哈客栈</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713060000 +0800" stop="20250713060200 +0800">
-		<title lang="zh">气象视界</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713060200 +0800" stop="20250713072500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713072500 +0800" stop="20250713074300 +0800">
-		<title lang="zh">大家来养生</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713074300 +0800" stop="20250713083000 +0800">
-		<title lang="zh">石家庄新闻</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713083000 +0800" stop="20250713093500 +0800">
-		<title lang="zh">民生关注</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713093500 +0800" stop="20250713112800 +0800">
-		<title lang="zh">精品剧场</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713112800 +0800" stop="20250713130000 +0800">
-		<title lang="zh">午报故事汇+新闻午报</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713130000 +0800" stop="20250713133200 +0800">
-		<title lang="zh">乡村服务社</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713133200 +0800" stop="20250713141400 +0800">
-		<title lang="zh">母婴派</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713141400 +0800" stop="20250713144000 +0800">
-		<title lang="zh">置家帮</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713144000 +0800" stop="20250713145500 +0800">
-		<title lang="zh">理论之窗</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713145500 +0800" stop="20250713150800 +0800">
-		<title lang="zh">嘻哈客栈</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713150800 +0800" stop="20250713165800 +0800">
-		<title lang="zh">午后剧场</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713165800 +0800" stop="20250713171500 +0800">
-		<title lang="zh">第一金融</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713171500 +0800" stop="20250713175900 +0800">
-		<title lang="zh">午后剧场</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713175900 +0800" stop="20250713190000 +0800">
-		<title lang="zh">民生关注</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713190000 +0800" stop="20250713193200 +0800">
-		<title lang="zh">转播中央新闻联播</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713193200 +0800" stop="20250713194000 +0800">
-		<title lang="zh">转中央天气预报</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713194000 +0800" stop="20250713200000 +0800">
-		<title lang="zh">石家庄新闻</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713200000 +0800" stop="20250713213000 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713213000 +0800" stop="20250713221200 +0800">
-		<title lang="zh">约访国际庄</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713221200 +0800" stop="20250713223000 +0800">
-		<title lang="zh">第一金融</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713223000 +0800" stop="20250713224500 +0800">
-		<title lang="zh">大家来养生</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713224500 +0800" stop="20250713230500 +0800">
-		<title lang="zh">置家帮</title>
-	</programme>
-	<programme channel="石家庄新闻综合" start="20250713230500 +0800" stop="20250713235900 +0800">
-		<title lang="zh">气象视界</title>
-	</programme>
-	<channel id="石家庄生活">
-		<display-name lang="zh">石家庄生活</display-name>
-	</channel>
-	<programme channel="石家庄生活" start="20250713060000 +0800" stop="20250713063000 +0800">
-		<title lang="zh">乡村服务社</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713063000 +0800" stop="20250713065500 +0800">
-		<title lang="zh">文明石家庄人</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713065500 +0800" stop="20250713072000 +0800">
-		<title lang="zh">创城纵横谈</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713072000 +0800" stop="20250713074500 +0800">
-		<title lang="zh">创城播报</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713074500 +0800" stop="20250713083000 +0800">
-		<title lang="zh">法治时间</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713083000 +0800" stop="20250713091500 +0800">
-		<title lang="zh">本草新说</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713091500 +0800" stop="20250713100000 +0800">
-		<title lang="zh">调和-精编</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713100000 +0800" stop="20250713105000 +0800">
-		<title lang="zh">省会房产报道</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713105000 +0800" stop="20250713113500 +0800">
-		<title lang="zh">第一消费</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713113500 +0800" stop="20250713115700 +0800">
-		<title lang="zh">花儿朵朵</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713115700 +0800" stop="20250713120000 +0800">
-		<title lang="zh">生活情报站*气象</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713120000 +0800" stop="20250713122500 +0800">
-		<title lang="zh">创城播报</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713122500 +0800" stop="20250713130000 +0800">
-		<title lang="zh">法治时间</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713130000 +0800" stop="20250713132500 +0800">
-		<title lang="zh">生活2017</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713132500 +0800" stop="20250713135000 +0800">
-		<title lang="zh">创城纵横谈</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713135000 +0800" stop="20250713143000 +0800">
-		<title lang="zh">文明石家庄人</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713143000 +0800" stop="20250713154000 +0800">
-		<title lang="zh">新发现</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713154000 +0800" stop="20250713163000 +0800">
-		<title lang="zh">本草新说</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713163000 +0800" stop="20250713170000 +0800">
-		<title lang="zh">第一消费</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713170000 +0800" stop="20250713173500 +0800">
-		<title lang="zh">有滋有味</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713173500 +0800" stop="20250713180000 +0800">
-		<title lang="zh">开蒙世界</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713180000 +0800" stop="20250713180500 +0800">
-		<title lang="zh">生活情报站*气象</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713180500 +0800" stop="20250713182500 +0800">
-		<title lang="zh">文明石家庄人</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713182500 +0800" stop="20250713185500 +0800">
-		<title lang="zh">创城播报</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713185500 +0800" stop="20250713192500 +0800">
-		<title lang="zh">法治时间</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713192500 +0800" stop="20250713195000 +0800">
-		<title lang="zh">生活2017</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713195000 +0800" stop="20250713203000 +0800">
-		<title lang="zh">创城纵横谈</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713203000 +0800" stop="20250713211000 +0800">
-		<title lang="zh">第三调解室</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713211000 +0800" stop="20250713220000 +0800">
-		<title lang="zh">法治中国60分</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713220000 +0800" stop="20250713222000 +0800">
-		<title lang="zh">诺亚职场</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713222000 +0800" stop="20250713223500 +0800">
-		<title lang="zh">警方视点</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713223500 +0800" stop="20250713225000 +0800">
-		<title lang="zh">梅卿快车道</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713225000 +0800" stop="20250713231500 +0800">
-		<title lang="zh">第一消费</title>
-	</programme>
-	<programme channel="石家庄生活" start="20250713231500 +0800" stop="20250713235900 +0800">
-		<title lang="zh">乡村服务社</title>
-	</programme>
-	<channel id="石家庄都市">
-		<display-name lang="zh">石家庄都市</display-name>
-	</channel>
-	<programme channel="石家庄都市" start="20250713000000 +0800" stop="20250713060000 +0800">
-		<title lang="zh">天天说交通</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713060000 +0800" stop="20250713060500 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713060500 +0800" stop="20250713073500 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713073500 +0800" stop="20250713104000 +0800">
-		<title lang="zh">嘻哈客栈</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713104000 +0800" stop="20250713113000 +0800">
-		<title lang="zh">母婴派</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713113000 +0800" stop="20250713120000 +0800">
-		<title lang="zh">房产报道</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713120000 +0800" stop="20250713125000 +0800">
-		<title lang="zh">母婴派</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713125000 +0800" stop="20250713144500 +0800">
-		<title lang="zh">嘻哈客栈</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713144500 +0800" stop="20250713171000 +0800">
-		<title lang="zh">电视剧</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713171000 +0800" stop="20250713174500 +0800">
-		<title lang="zh">快乐生活一点通</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713174500 +0800" stop="20250713175000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="石家庄都市" start="20250713175000 +0800" s
+	<programme channel="石家庄娱乐" start="20250713134000 +0
