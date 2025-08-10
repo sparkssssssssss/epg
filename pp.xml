@@ -1,5 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20250811000000 +0800" stop="20250811011900 +0800">
+		<title lang="zh">甜姐儿</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811011900 +0800" stop="20250811031900 +0800">
+		<title lang="zh">擒凶记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811031900 +0800" stop="20250811045800 +0800">
+		<title lang="zh">深闺疑云</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811045800 +0800" stop="20250811064700 +0800">
+		<title lang="zh">惊魂记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811064700 +0800" stop="20250811085600 +0800">
+		<title lang="zh">迷魂记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811085600 +0800" stop="20250811110600 +0800">
+		<title lang="zh">蝴蝶梦</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811110600 +0800" stop="20250811130400 +0800">
+		<title lang="zh">凡尔杜先生</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811130400 +0800" stop="20250811150300 +0800">
+		<title lang="zh">群鸟</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811150300 +0800" stop="20250811165400 +0800">
+		<title lang="zh">爱德华大夫</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811165400 +0800" stop="20250811183500 +0800">
+		<title lang="zh">电话谋杀案</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811183500 +0800" stop="20250811202800 +0800">
+		<title lang="zh">后窗</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811202800 +0800" stop="20250811221200 +0800">
+		<title lang="zh">乡下姑娘</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811221200 +0800" stop="20250811235800 +0800">
+		<title lang="zh">捉贼记</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250811235800 +0800" stop="20250811235900 +0800">
+		<title lang="zh">上流社会</title>
+	</programme>
+	<channel id="BTV体育">
+		<display-name lang="zh">BTV体育</display-name>
+	</channel>
+	<programme channel="BTV体育" start="20250811004500 +0800" stop="20250811011500 +0800">
+		<title lang="zh">天天体育（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811011000 +0800" stop="20250811014000 +0800">
+		<title lang="zh">天天体育（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811011500 +0800" stop="20250811015500 +0800">
+		<title lang="zh">BRTV赛场：2024-2025德甲集锦（25）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811014000 +0800" stop="20250811022000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季德甲集锦（24）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811015500 +0800" stop="20250811024500 +0800">
+		<title lang="zh">重返经典（新23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811022000 +0800" stop="20250811031000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811024500 +0800" stop="20250811033500 +0800">
+		<title lang="zh">欢乐二打一（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811031000 +0800" stop="20250811045000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北京-天津）3.18</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811033500 +0800" stop="20250811051500 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北京-宁波）3.15</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811045000 +0800" stop="20250811054000 +0800">
+		<title lang="zh">重返经典（新22）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811051500 +0800" stop="20250811054500 +0800">
+		<title lang="zh">天天体育（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811054000 +0800" stop="20250811055500 +0800">
+		<title lang="zh">2024-2025德甲进球集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811054500 +0800" stop="20250811060000 +0800">
+		<title lang="zh">2024-2025德甲进球集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811055500 +0800" stop="20250811060000 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811060500 +0800" stop="20250811061500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811060500 +0800" stop="20250811061500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811061500 +0800" stop="20250811075500 +0800">
+		<title lang="zh">BRTV赛场：2025中国足协杯四分之一决赛(青岛西海岸-北京国安)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811061500 +0800" stop="20250811075500 +0800">
+		<title lang="zh">BRTV赛场：2025“京”彩赛事（7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811080000 +0800" stop="20250811083000 +0800">
+		<title lang="zh">天天体育（2025-8-9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811080000 +0800" stop="20250811083000 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第19轮集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811083000 +0800" stop="20250811092000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811083000 +0800" stop="20250811092000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811092000 +0800" stop="20250811100500 +0800">
+		<title lang="zh">乐活北京173（8-9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811092000 +0800" stop="20250811100500 +0800">
+		<title lang="zh">乐活北京174（8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811101000 +0800" stop="20250811110000 +0800">
+		<title lang="zh">重返经典（新23）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811101000 +0800" stop="20250811110000 +0800">
+		<title lang="zh">重返经典（新22）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811110000 +0800" stop="20250811110500 +0800">
+		<title lang="zh">奥运夺金时刻（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811110000 +0800" stop="20250811110500 +0800">
+		<title lang="zh">奥运夺金时刻（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811111000 +0800" stop="20250811114000 +0800">
+		<title lang="zh">BRTV赛场：2025中超联赛第19轮集锦</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811111000 +0800" stop="20250811114000 +0800">
+		<title lang="zh">天天体育（2025-8-9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811114000 +0800" stop="20250811123000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811114000 +0800" stop="20250811123000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811123000 +0800" stop="20250811131500 +0800">
+		<title lang="zh">乐活北京175（8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811123000 +0800" stop="20250811131500 +0800">
+		<title lang="zh">乐活北京174（8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811132000 +0800" stop="20250811150000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北京-天津）3.18</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811132000 +0800" stop="20250811150000 +0800">
+		<title lang="zh">BRTV赛场：2024-2025赛季CBA常规赛（北京-宁波）3.15</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811150500 +0800" stop="20250811151500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811150500 +0800" stop="20250811151500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811152000 +0800" stop="20250811170000 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(北京国安-浙江队)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811152000 +0800" stop="20250811170000 +0800">
+		<title lang="zh">BRTV赛场：2025赛季中超联赛(浙江-北京国安)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811171000 +0800" stop="20250811175500 +0800">
+		<title lang="zh">乐活北京175（8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811171000 +0800" stop="20250811175500 +0800">
+		<title lang="zh">乐活北京174（8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811175500 +0800" stop="20250811184500 +0800">
+		<title lang="zh">欢乐二打一（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811175500 +0800" stop="20250811184500 +0800">
+		<title lang="zh">欢乐二打一（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811185000 +0800" stop="20250811192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811185000 +0800" stop="20250811192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811192000 +0800" stop="20250811192500 +0800">
+		<title lang="zh">奥运夺金时刻（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811192500 +0800" stop="20250811214000 +0800">
+		<title lang="zh">直播：2025赛季中超联赛(浙江-北京国安)(19:35)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811193000 +0800" stop="20250811211500 +0800">
+		<title lang="zh">直播：足球100分（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811212000 +0800" stop="20250811221000 +0800">
+		<title lang="zh">欢乐二打一（2025-8-11）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811214500 +0800" stop="20250811223500 +0800">
+		<title lang="zh">欢乐二打一（2025-8-10）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811221500 +0800" stop="20250811235500 +0800">
+		<title lang="zh">BRTV赛场：2026亚足联U20女足亚洲杯预选赛(中国-黎巴嫩)</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811224000 +0800" stop="20250811233000 +0800">
+		<title lang="zh">重返经典（新22）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250811233000 +0800" stop="20250811011000 +0800">
+		<title lang="zh">BRTV赛场：2025中国足协杯四分之一决赛(青岛西海岸-北京国安)</title>
+	</programme>
 	<channel id="BTV影视">
 		<display-name lang="zh">BTV影视</display-name>
 	</channel>
@@ -15309,11 +15519,44 @@
 	<programme channel="咪咕综合体育" start="20250811000000 +0800" stop="20250811003000 +0800">
 		<title lang="zh">足球世界-2025社区盾杯 水晶宫-利物浦 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250811003000 +0800" stop="20250811003500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250811003500 +0800" stop="20250811013000 +0800">
+		<title lang="zh">纪录片曼联92班第一季 第一集</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250811013000 +0800" stop="20250811035000 +0800">
+		<title lang="zh">UFC第317期 主赛</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250811035000 +0800" stop="20250811064500 +0800">
+		<title lang="zh">2025国际马联场地障碍赛世界杯中国联赛武汉站 第1日</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250811000100 +0800" stop="20250811012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811012100 +0800" stop="20250811013000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811013000 +0800" stop="20250811031000 +0800">
+		<title lang="zh">2024NBL 总决赛G1 安徽文一-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811031000 +0800" stop="20250811032000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811032000 +0800" stop="20250811042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811042500 +0800" stop="20250811052500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811052500 +0800" stop="20250811054000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250811054000 +0800" stop="20250811071000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第32轮 新疆天山-山东赤水河酒</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -21254,6 +21497,108 @@
 	</programme>
 	<programme channel="峨嵋电影" start="20250811231500 +0800" stop="20250811235900 +0800">
 		<title lang="zh">剧宝藏4:踏破硝烟(28)</title>
+	</programme>
+	<channel id="常州新闻">
+		<display-name lang="zh">常州新闻</display-name>
+	</channel>
+	<programme channel="常州新闻" start="20250811060000 +0800" stop="20250811063000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811063000 +0800" stop="20250811070000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811070000 +0800" stop="20250811070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811070100 +0800" stop="20250811073200 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811073200 +0800" stop="20250811082000 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811082000 +0800" stop="20250811100000 +0800">
+		<title lang="zh">活力剧场1</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811100000 +0800" stop="20250811105000 +0800">
+		<title lang="zh">活力剧场2</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811105000 +0800" stop="20250811115000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811115000 +0800" stop="20250811120000 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811120000 +0800" stop="20250811123000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811123000 +0800" stop="20250811131000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811131000 +0800" stop="20250811133500 +0800">
+		<title lang="zh">金色年华</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811133500 +0800" stop="20250811140500 +0800">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811140500 +0800" stop="20250811145000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811145000 +0800" stop="20250811151500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811151500 +0800" stop="20250811152500 +0800">
+		<title lang="zh">寻味龙城</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811152500 +0800" stop="20250811162000 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811162000 +0800" stop="20250811162900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811162900 +0800" stop="20250811164400 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811164400 +0800" stop="20250811172400 +0800">
+		<title lang="zh">健康小剧场</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811172400 +0800" stop="20250811180000 +0800">
+		<title lang="zh">龙城少儿风采</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811180000 +0800" stop="20250811183000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811183000 +0800" stop="20250811190000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811190000 +0800" stop="20250811193300 +0800">
+		<title lang="zh">央视新闻联播</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811193300 +0800" stop="20250811194000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811194000 +0800" stop="20250811203000 +0800">
+		<title lang="zh">黄金剧场(1)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811203000 +0800" stop="20250811212000 +0800">
+		<title lang="zh">黄金剧场(2)</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811212000 +0800" stop="20250811215000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811215000 +0800" stop="20250811220000 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811220000 +0800" stop="20250811221500 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811221500 +0800" stop="20250811223000 +0800">
+		<title lang="zh">新华纵横</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811223000 +0800" stop="20250811231500 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20250811231500 +0800" stop="20250811060000 +0800">
+		<title lang="zh">结束</title>
 	</programme>
 	<channel id="幼儿教育">
 		<display-name lang="zh">幼儿教育</display-name>
@@ -35926,375 +36271,4 @@
 		<title lang="zh">创赢工场</title>
 	</programme>
 	<programme channel="珠海-2" start="20250811141500 +0800" stop="20250811160500 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811160500 +0800" stop="20250811170500 +0800">
-		<title lang="zh">第一地产</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811170500 +0800" stop="20250811175500 +0800">
-		<title lang="zh">光影纵横</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811175500 +0800" stop="20250811180000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811180000 +0800" stop="20250811183000 +0800">
-		<title lang="zh">有一说一</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811183000 +0800" stop="20250811190000 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811190000 +0800" stop="20250811193500 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811193500 +0800" stop="20250811202700 +0800">
-		<title lang="zh">学生兵</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811202700 +0800" stop="20250811212000 +0800">
-		<title lang="zh">学生兵</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811212000 +0800" stop="20250811214500 +0800">
-		<title lang="zh">创赢工场</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811214500 +0800" stop="20250811223000 +0800">
-		<title lang="zh">第一房产</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811223000 +0800" stop="20250811231500 +0800">
-		<title lang="zh">光影纵横</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811231500 +0800" stop="20250811234500 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海-2" start="20250811234500 +0800" stop="20250811235900 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<channel id="珠海新闻">
-		<display-name lang="zh">珠海新闻</display-name>
-	</channel>
-	<programme channel="珠海新闻" start="20250811002700 +0800" stop="20250811003900 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811003900 +0800" stop="20250811063000 +0800">
-		<title lang="zh">第一首映</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811063000 +0800" stop="20250811064000 +0800">
-		<title lang="zh">做一天的你</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811064000 +0800" stop="20250811065000 +0800">
-		<title lang="zh">金湾一周</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811065000 +0800" stop="20250811070000 +0800">
-		<title lang="zh">极致</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811070000 +0800" stop="20250811080000 +0800">
-		<title lang="zh">珠海新闻(重播)</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811080000 +0800" stop="20250811090800 +0800">
-		<title lang="zh">上午剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811090800 +0800" stop="20250811101600 +0800">
-		<title lang="zh">上午剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811101600 +0800" stop="20250811112500 +0800">
-		<title lang="zh">上午剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811112500 +0800" stop="20250811120000 +0800">
-		<title lang="zh">第一首映</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811120000 +0800" stop="20250811123500 +0800">
-		<title lang="zh">新闻121(直播)</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811123500 +0800" stop="20250811125000 +0800">
-		<title lang="zh">做一天的你</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811125000 +0800" stop="20250811163000 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811163000 +0800" stop="20250811170500 +0800">
-		<title lang="zh">影视界</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811170500 +0800" stop="20250811173500 +0800">
-		<title lang="zh">新闻121</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811173500 +0800" stop="20250811182500 +0800">
-		<title lang="zh">校园</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811182500 +0800" stop="20250811184000 +0800">
-		<title lang="zh">珠海110</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811184000 +0800" stop="20250811190000 +0800">
-		<title lang="zh">财知道</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811190000 +0800" stop="20250811193300 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811193300 +0800" stop="20250811203300 +0800">
-		<title lang="zh">珠海新闻(直播)</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811203300 +0800" stop="20250811203500 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811203500 +0800" stop="20250811212200 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811212200 +0800" stop="20250811220900 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811220900 +0800" stop="20250811225700 +0800">
-		<title lang="zh">黄金剧场</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811225700 +0800" stop="20250811230000 +0800">
-		<title lang="zh">海洋天气预报</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811230000 +0800" stop="20250811232000 +0800">
-		<title lang="zh">财知道</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811232000 +0800" stop="20250811234000 +0800">
-		<title lang="zh">第一房产精编</title>
-	</programme>
-	<programme channel="珠海新闻" start="20250811234000 +0800" stop="20250811235900 +0800">
-		<title lang="zh">珠海新闻</title>
-	</programme>
-	<channel id="珠海生活">
-		<display-name lang="zh">珠海生活</display-name>
-	</channel>
-	<programme channel="珠海生活" start="20250811004000 +0800" stop="20250811063000 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811063000 +0800" stop="20250811073000 +0800">
-		<title lang="zh">耳畔中国</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811073000 +0800" stop="20250811080000 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811080000 +0800" stop="20250811083000 +0800">
-		<title lang="zh">创赢工场</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811083000 +0800" stop="20250811093200 +0800">
-		<title lang="zh">搭错车</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811093200 +0800" stop="20250811103500 +0800">
-		<title lang="zh">搭错车</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811103500 +0800" stop="20250811112000 +0800">
-		<title lang="zh">第一房产</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811112000 +0800" stop="20250811122000 +0800">
-		<title lang="zh">光影纵横</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811122000 +0800" stop="20250811125500 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811125500 +0800" stop="20250811134500 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811134500 +0800" stop="20250811141500 +0800">
-		<title lang="zh">创赢工场</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811141500 +0800" stop="20250811160500 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811160500 +0800" stop="20250811170500 +0800">
-		<title lang="zh">第一地产</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811170500 +0800" stop="20250811175500 +0800">
-		<title lang="zh">光影纵横</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811175500 +0800" stop="20250811180000 +0800">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811180000 +0800" stop="20250811183000 +0800">
-		<title lang="zh">有一说一</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811183000 +0800" stop="20250811190000 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811190000 +0800" stop="20250811193500 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811193500 +0800" stop="20250811202700 +0800">
-		<title lang="zh">学生兵</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811202700 +0800" stop="20250811212000 +0800">
-		<title lang="zh">学生兵</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811212000 +0800" stop="20250811214500 +0800">
-		<title lang="zh">创赢工场</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811214500 +0800" stop="20250811223000 +0800">
-		<title lang="zh">第一房产</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811223000 +0800" stop="20250811231500 +0800">
-		<title lang="zh">光影纵横</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811231500 +0800" stop="20250811234500 +0800">
-		<title lang="zh">说一不二</title>
-	</programme>
-	<programme channel="珠海生活" start="20250811234500 +0800" stop="20250811235900 +0800">
-		<title lang="zh">都市荟生活</title>
-	</programme>
-	<channel id="甘肃公共">
-		<display-name lang="zh">甘肃公共</display-name>
-	</channel>
-	<programme channel="甘肃公共" start="20250811001300 +0800" stop="20250811060000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811060000 +0800" stop="20250811071800 +0800">
-		<title lang="zh">百姓有话说</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811071800 +0800" stop="20250811072500 +0800">
-		<title lang="zh">百姓绚丽甘肃</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811072500 +0800" stop="20250811120800 +0800">
-		<title lang="zh">上午剧场</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811120800 +0800" stop="20250811123000 +0800">
-		<title lang="zh">百姓气象站</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811123000 +0800" stop="20250811135000 +0800">
-		<title lang="zh">百姓有话说</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811135000 +0800" stop="20250811144500 +0800">
-		<title lang="zh">品牌之路</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811144500 +0800" stop="20250811180300 +0800">
-		<title lang="zh">下午剧场</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811180300 +0800" stop="20250811181000 +0800">
-		<title lang="zh">百姓绚丽甘肃</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811181000 +0800" stop="20250811183200 +0800">
-		<title lang="zh">头条来了</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811183200 +0800" stop="20250811183500 +0800">
-		<title lang="zh">百姓气象站</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811183500 +0800" stop="20250811213000 +0800">
-		<title lang="zh">晚间剧场</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811213000 +0800" stop="20250811223300 +0800">
-		<title lang="zh">百姓有话说</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811223300 +0800" stop="20250811225500 +0800">
-		<title lang="zh">天下陇商</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811225500 +0800" stop="20250811231100 +0800">
-		<title lang="zh">百姓纪与录</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811231100 +0800" stop="20250811232100 +0800">
-		<title lang="zh">头条来了</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811232100 +0800" stop="20250811234300 +0800">
-		<title lang="zh">百姓绚丽甘肃</title>
-	</programme>
-	<programme channel="甘肃公共" start="20250811234300 +0800" stop="20250811235900 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<channel id="甘肃卫视">
-		<display-name lang="zh">甘肃卫视</display-name>
-	</channel>
-	<programme channel="甘肃卫视" start="20250811003300 +0800" stop="20250811005800 +0800">
-		<title lang="zh">月牙泉剧场:猎鹰1949(28)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811005800 +0800" stop="20250811013500 +0800">
-		<title lang="zh">纪录30分</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811013500 +0800" stop="20250811020600 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811020600 +0800" stop="20250811030600 +0800">
-		<title lang="zh">如意甘肃我的家</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811030600 +0800" stop="20250811034000 +0800">
-		<title lang="zh">丝路大讲堂</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811034000 +0800" stop="20250811035700 +0800">
-		<title lang="zh">今日聚焦</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811035700 +0800" stop="20250811043200 +0800">
-		<title lang="zh">法治伴你行</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811043200 +0800" stop="20250811050700 +0800">
-		<title lang="zh">纪录30分</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811050700 +0800" stop="20250811054000 +0800">
-		<title lang="zh">如意甘肃我的家</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811054000 +0800" stop="20250811060400 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811060400 +0800" stop="20250811070000 +0800">
-		<title lang="zh">月牙泉剧场:猎鹰1949(29)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811070000 +0800" stop="20250811070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811070100 +0800" stop="20250811080200 +0800">
-		<title lang="zh">月牙泉剧场:猎鹰1949(30)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811080200 +0800" stop="20250811085400 +0800">
-		<title lang="zh">雄关剧场:平原烽火(29)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811085400 +0800" stop="20250811094800 +0800">
-		<title lang="zh">雄关剧场:平原烽火(30)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811094800 +0800" stop="20250811104200 +0800">
-		<title lang="zh">雄关剧场:平原烽火(31)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811104200 +0800" stop="20250811113400 +0800">
-		<title lang="zh">雄关剧场:平原烽火(32)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811113400 +0800" stop="20250811123000 +0800">
-		<title lang="zh">雄关剧场:平原烽火(33)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811123000 +0800" stop="20250811125200 +0800">
-		<title lang="zh">午间20分</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811125200 +0800" stop="20250811130000 +0800">
-		<title lang="zh">甘肃天气预报</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811130000 +0800" stop="20250811135500 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811135500 +0800" stop="20250811144900 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811144900 +0800" stop="20250811154500 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811154500 +0800" stop="20250811164100 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811164100 +0800" stop="20250811173500 +0800">
-		<title lang="zh">花雨剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811173500 +0800" stop="20250811181000 +0800">
-		<title lang="zh">动画片剧场:棉花糖和云朵妈妈</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811181000 +0800" stop="20250811183000 +0800">
-		<title lang="zh">今日聚焦</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811183000 +0800" stop="20250811185600 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811185600 +0800" stop="20250811190000 +0800">
-		<title lang="zh">甘肃天气预报</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811190000 +0800" stop="20250811193900 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811193900 +0800" stop="20250811203500 +0800">
-		<title lang="zh">飞天剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811203500 +0800" stop="20250811212500 +0800">
-		<title lang="zh">飞天剧场</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811212500 +0800" stop="20250811220000 +0800">
-		<title lang="zh">好人在身边</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811220000 +0800" stop="20250811223000 +0800">
-		<title lang="zh">新闻晚高峰</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250811223000 +0800" stop="20250811233100 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" 
+		
