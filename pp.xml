@@ -1,5 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20250907000000 +0800" stop="20250907010900 +0800">
+		<title lang="zh">蒂凡尼的早餐</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907010900 +0800" stop="20250907025500 +0800">
+		<title lang="zh">巴黎假期</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907025500 +0800" stop="20250907045900 +0800">
+		<title lang="zh">偷龙转凤</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907045900 +0800" stop="20250907063400 +0800">
+		<title lang="zh">如何嫁给百万富翁</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907063400 +0800" stop="20250907075100 +0800">
+		<title lang="zh">豆蔻年华</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907075100 +0800" stop="20250907092200 +0800">
+		<title lang="zh">绅士爱美人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907092200 +0800" stop="20250907105900 +0800">
+		<title lang="zh">妙药春情</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907105900 +0800" stop="20250907125600 +0800">
+		<title lang="zh">娱乐至上</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907125600 +0800" stop="20250907144100 +0800">
+		<title lang="zh">七年之痒</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907144100 +0800" stop="20250907161500 +0800">
+		<title lang="zh">巴士站</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907161500 +0800" stop="20250907181600 +0800">
+		<title lang="zh">热情如火</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907181600 +0800" stop="20250907201000 +0800">
+		<title lang="zh">让我们相爱吧</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907201000 +0800" stop="20250907222900 +0800">
+		<title lang="zh">彗星美人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20250907222900 +0800" stop="20250907235900 +0800">
+		<title lang="zh">游龙戏凤</title>
+	</programme>
+	<channel id="BTV体育">
+		<display-name lang="zh">BTV体育</display-name>
+	</channel>
+	<programme channel="BTV体育" start="20250907004500 +0800" stop="20250907011500 +0800">
+		<title lang="zh">天天体育（2025-9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907011500 +0800" stop="20250907015500 +0800">
+		<title lang="zh">BRTV赛场：2024-2025德甲集锦（21）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907015500 +0800" stop="20250907024500 +0800">
+		<title lang="zh">欢乐二打一（2025-9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907024500 +0800" stop="20250907042500 +0800">
+		<title lang="zh">BRTV赛场：2025年北京TOP街舞国际公开赛（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907042500 +0800" stop="20250907051500 +0800">
+		<title lang="zh">重返经典（新18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907051500 +0800" stop="20250907054500 +0800">
+		<title lang="zh">天天体育（2025-9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907054500 +0800" stop="20250907060000 +0800">
+		<title lang="zh">2024-2025德甲进球集锦（2）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907060500 +0800" stop="20250907061500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907061500 +0800" stop="20250907075500 +0800">
+		<title lang="zh">BRTV赛场：2025中国足协杯半决赛（北京国安-云南玉昆）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907080000 +0800" stop="20250907083000 +0800">
+		<title lang="zh">天天体育（2025-9-6）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907083000 +0800" stop="20250907092000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-6）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907092000 +0800" stop="20250907100500 +0800">
+		<title lang="zh">乐活北京199（9-6）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907101000 +0800" stop="20250907110000 +0800">
+		<title lang="zh">重返经典（新18）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907110000 +0800" stop="20250907110500 +0800">
+		<title lang="zh">奥运夺金时刻（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907111000 +0800" stop="20250907114000 +0800">
+		<title lang="zh">天天体育（2025-9-6）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907114000 +0800" stop="20250907123000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-6）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907123000 +0800" stop="20250907131500 +0800">
+		<title lang="zh">乐活北京200（9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907132000 +0800" stop="20250907150000 +0800">
+		<title lang="zh">BRTV赛场：2025中国足协杯半决赛（北京国安-云南玉昆）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907150500 +0800" stop="20250907151500 +0800">
+		<title lang="zh">2025赛季北京国安进球集锦（3）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907152000 +0800" stop="20250907170000 +0800">
+		<title lang="zh">BRTV赛场：2025“京”彩赛事（9）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907171000 +0800" stop="20250907175500 +0800">
+		<title lang="zh">乐活北京200（9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907175500 +0800" stop="20250907184500 +0800">
+		<title lang="zh">欢乐二打一（2025-9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907185000 +0800" stop="20250907192000 +0800">
+		<title lang="zh">直播：天天体育</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907192000 +0800" stop="20250907192500 +0800">
+		<title lang="zh">奥运夺金时刻（1）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907193000 +0800" stop="20250907211000 +0800">
+		<title lang="zh">BRTV赛场：</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907212000 +0800" stop="20250907221000 +0800">
+		<title lang="zh">欢乐二打一（2025-9-7）</title>
+	</programme>
+	<programme channel="BTV体育" start="20250907221500 +0800" stop="20250907230500 +0800">
+		<title lang="zh">重返经典（新18）</title>
+	</programme>
 	<channel id="BTV影视">
 		<display-name lang="zh">BTV影视</display-name>
 	</channel>
@@ -15234,11 +15363,44 @@
 	<programme channel="咪咕综合体育" start="20250907000000 +0800" stop="20250907020000 +0800">
 		<title lang="zh">网球世界-2025美国网球公开赛 男双决赛 格拉诺勒斯/泽巴罗斯-萨利斯布里/斯库普斯基 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250907020000 +0800" stop="20250907022000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250907022000 +0800" stop="20250907033000 +0800">
+		<title lang="zh">国球荣耀-2025WTT欧洲大满贯瑞典站 男单决赛 林诗栋-莫雷加德</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250907033000 +0800" stop="20250907040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250907040000 +0800" stop="20250907061000 +0800">
+		<title lang="zh">网球世界-2025美国网球公开赛 女单决赛 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
 	<programme channel="咪咕足球" start="20250907000100 +0800" stop="20250907012100 +0800">
 		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907013000 +0800" stop="20250907031000 +0800">
+		<title lang="zh">2024NBL 石家庄翔蓝-武汉鲲鹏</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907031000 +0800" stop="20250907032000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907032000 +0800" stop="20250907042000 +0800">
+		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907042000 +0800" stop="20250907042500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907042500 +0800" stop="20250907052500 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907052500 +0800" stop="20250907053500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250907053500 +0800" stop="20250907071500 +0800">
+		<title lang="zh">我爱女篮-24/25常规赛第14轮 东莞新彤盛-浙江稠州银行</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -35573,153 +35735,4 @@
 	</programme>
 	<programme channel="电视指南" start="20250907090000 +0800" stop="20250907091500 +0800">
 		<title lang="zh">我喜欢我推荐-跟着书本去旅行2025-38</title>
-	</programme>
-	<programme channel="电视指南" start="20250907091500 +0800" stop="20250907093500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2025-39</title>
-	</programme>
-	<programme channel="电视指南" start="20250907093500 +0800" stop="20250907095500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-141</title>
-	</programme>
-	<programme channel="电视指南" start="20250907095500 +0800" stop="20250907101500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-142</title>
-	</programme>
-	<programme channel="电视指南" start="20250907101500 +0800" stop="20250907102000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907102000 +0800" stop="20250907104500 +0800">
-		<title lang="zh">我喜欢我推荐-合唱先锋2021-10</title>
-	</programme>
-	<programme channel="电视指南" start="20250907104500 +0800" stop="20250907110500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-11</title>
-	</programme>
-	<programme channel="电视指南" start="20250907110500 +0800" stop="20250907112500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-12</title>
-	</programme>
-	<programme channel="电视指南" start="20250907112500 +0800" stop="20250907115000 +0800">
-		<title lang="zh">我喜欢我推荐-遇见最极致的中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250907115000 +0800" stop="20250907115500 +0800">
-		<title lang="zh">食物放大镜-荞麦</title>
-	</programme>
-	<programme channel="电视指南" start="20250907115500 +0800" stop="20250907120000 +0800">
-		<title lang="zh">垫播节目-美丽中国-丝路之旅</title>
-	</programme>
-	<programme channel="电视指南" start="20250907120000 +0800" stop="20250907121000 +0800">
-		<title lang="zh">整点冲击播-2024-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250907121000 +0800" stop="20250907121500 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907121500 +0800" stop="20250907122500 +0800">
-		<title lang="zh">数字飙榜-2023-5</title>
-	</programme>
-	<programme channel="电视指南" start="20250907122500 +0800" stop="20250907122600 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250907122600 +0800" stop="20250907132800 +0800">
-		<title lang="zh">中国文艺-致敬经典2024-28</title>
-	</programme>
-	<programme channel="电视指南" start="20250907132800 +0800" stop="20250907134400 +0800">
-		<title lang="zh">国家喊你来减肥-管住嘴有诀窍但要避坑</title>
-	</programme>
-	<programme channel="电视指南" start="20250907134400 +0800" stop="20250907135900 +0800">
-		<title lang="zh">我喜欢我推荐-2024年世界斯诺克锦标赛决赛 凯伦·威尔逊-杰克·琼斯-3</title>
-	</programme>
-	<programme channel="电视指南" start="20250907135900 +0800" stop="20250907140000 +0800">
-		<title lang="zh">请您欣赏-海南风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250907140000 +0800" stop="20250907141500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2025-38</title>
-	</programme>
-	<programme channel="电视指南" start="20250907141500 +0800" stop="20250907143500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2025-39</title>
-	</programme>
-	<programme channel="电视指南" start="20250907143500 +0800" stop="20250907145500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-141</title>
-	</programme>
-	<programme channel="电视指南" start="20250907145500 +0800" stop="20250907151500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-142</title>
-	</programme>
-	<programme channel="电视指南" start="20250907151500 +0800" stop="20250907152000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907152000 +0800" stop="20250907154500 +0800">
-		<title lang="zh">我喜欢我推荐-合唱先锋2021-10</title>
-	</programme>
-	<programme channel="电视指南" start="20250907154500 +0800" stop="20250907160500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-11</title>
-	</programme>
-	<programme channel="电视指南" start="20250907160500 +0800" stop="20250907162500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-12</title>
-	</programme>
-	<programme channel="电视指南" start="20250907162500 +0800" stop="20250907165000 +0800">
-		<title lang="zh">我喜欢我推荐-遇见最极致的中国-6</title>
-	</programme>
-	<programme channel="电视指南" start="20250907165000 +0800" stop="20250907165500 +0800">
-		<title lang="zh">食物放大镜-荞麦</title>
-	</programme>
-	<programme channel="电视指南" start="20250907165500 +0800" stop="20250907170000 +0800">
-		<title lang="zh">垫播节目-美丽中国-丝路之旅</title>
-	</programme>
-	<programme channel="电视指南" start="20250907170000 +0800" stop="20250907171000 +0800">
-		<title lang="zh">整点冲击播-2024-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250907171000 +0800" stop="20250907172000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907172000 +0800" stop="20250907173500 +0800">
-		<title lang="zh">国家喊你来减肥-管住嘴有诀窍但要避坑</title>
-	</programme>
-	<programme channel="电视指南" start="20250907173500 +0800" stop="20250907175500 +0800">
-		<title lang="zh">我喜欢我推荐-2024年世界斯诺克锦标赛决赛 凯伦·威尔逊-杰克·琼斯-3</title>
-	</programme>
-	<programme channel="电视指南" start="20250907175500 +0800" stop="20250907180000 +0800">
-		<title lang="zh">请您欣赏-海南风光</title>
-	</programme>
-	<programme channel="电视指南" start="20250907180000 +0800" stop="20250907181500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2025-40</title>
-	</programme>
-	<programme channel="电视指南" start="20250907181500 +0800" stop="20250907183500 +0800">
-		<title lang="zh">我喜欢我推荐-跟着书本去旅行2024-24</title>
-	</programme>
-	<programme channel="电视指南" start="20250907183500 +0800" stop="20250907185500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-149</title>
-	</programme>
-	<programme channel="电视指南" start="20250907185500 +0800" stop="20250907191500 +0800">
-		<title lang="zh">我喜欢我推荐-我的家乡菜-150</title>
-	</programme>
-	<programme channel="电视指南" start="20250907191500 +0800" stop="20250907192000 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907192000 +0800" stop="20250907194500 +0800">
-		<title lang="zh">我喜欢我推荐-合唱先锋2021-11</title>
-	</programme>
-	<programme channel="电视指南" start="20250907194500 +0800" stop="20250907200500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-13</title>
-	</programme>
-	<programme channel="电视指南" start="20250907200500 +0800" stop="20250907202500 +0800">
-		<title lang="zh">我喜欢我推荐-风物第二季-14</title>
-	</programme>
-	<programme channel="电视指南" start="20250907202500 +0800" stop="20250907205000 +0800">
-		<title lang="zh">我喜欢我推荐-美丽中国自然-8</title>
-	</programme>
-	<programme channel="电视指南" start="20250907205000 +0800" stop="20250907205500 +0800">
-		<title lang="zh">食物放大镜-人参蜜片</title>
-	</programme>
-	<programme channel="电视指南" start="20250907205500 +0800" stop="20250907210000 +0800">
-		<title lang="zh">垫播节目-美丽中国-长白山</title>
-	</programme>
-	<programme channel="电视指南" start="20250907210000 +0800" stop="20250907211000 +0800">
-		<title lang="zh">整点冲击播-2024-3</title>
-	</programme>
-	<programme channel="电视指南" start="20250907211000 +0800" stop="20250907211500 +0800">
-		<title lang="zh">2025世界地理频道精彩多看点-36</title>
-	</programme>
-	<programme channel="电视指南" start="20250907211500 +0800" stop="20250907212500 +0800">
-		<title lang="zh">数字飙榜-2024-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250907212500 +0800" stop="20250907212600 +0800">
-		<title lang="zh">2025数字飙榜人名字幕-1</title>
-	</programme>
-	<programme channel="电视指南" start="20250907212600 +0800" stop="20250907222800 +0800">
-		<title lang="zh">中国�
+	</programme
